@@ -1,4 +1,4 @@
-module github.com/plankiton/chacha20.git
+module github.com/plankiton/chacha20
 
 go 1.12
 
